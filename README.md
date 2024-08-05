@@ -9,6 +9,12 @@ Métodos: ligar(String numero), atender(), iniciarCorreioVoz()<br>
 Navegador na Internet<br>
 Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()<br><br>
 <h3>Objetivo</h3><br>
-Criar um diagrama UML que represente as funcionalidades descritas acima.
+Criar um diagrama UML que represente as funcionalidades descritas acima.<br><br><br>
+
+<h2>Diagrama UML criado no Mermaid </h2><br>
+Imagem do Diagrama<br>
+
+
+
 
 
