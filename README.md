@@ -12,7 +12,7 @@ Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()<br><br
 Criar um diagrama UML que represente as funcionalidades descritas acima.<br><br><br>
 
 <h2>Diagrama UML criado no Mermaid </h2><br>
-Imagem do Diagrama<br><br>
+<h3>Imagem do Diagrama</h3><br><br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9f8f08b8-97ab-47ce-be0c-2d2c513aadea" width="700px" />
 </div>
