@@ -1,7 +1,7 @@
 # Modelando Iphone com UML
 Desafio java básico  Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet
 
-Funcionalidades a Modelar
+Funcionalidades a Modelar<br>
 Reprodutor Musical
 Métodos: tocar(), pausar(), selecionarMusica(String musica)
 Aparelho Telefônico
